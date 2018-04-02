@@ -1,3 +1,3 @@
-# PQAmoCrm_afi
+# Модернизированный коннектор PQ к AMO CRM 
 PQAmoCrm_afi
-Модернизированный код Eldar Zabitov
+Модернизированный код Eldar Zabitov для собственных нужд
